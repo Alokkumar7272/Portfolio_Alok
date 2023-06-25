@@ -1,41 +1,27 @@
 {
 	"landing": {
-		"firstName": "Harsh Bardhan ",
-		"lastName": "Mishra",
-		"phoneNumber": "+91-9799053844",
-		"bio": "I'm an Undergraduate Sophomore Year Student currently undertaking a Bachelors course in Computer Science and Engineering at Sathyabama Institute of Science and Technology. My skills are primarily in Programming through C, C++ and Python, Web Designing, Front-End Web Development, Cloud Services and Applications, Data Analysis and Machine Learning. I'm also an active Content Writer with over 13 Million Views on Quora and my primary strengths lie in my Time Management, Self-Motivation and a deep desire to learn something new.",
-    "email": "erbeusgriffincasper@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/harsh-bardhan-mishra-b19990173/",
-		"github": "https://github.com/harshcasper"
+		"firstName": "Alok ",
+		"lastName": "Kumar",
+		"phoneNumber": "+91-7310727281",
+		"bio": "My name is Alok Kumar, and I'm from the Uttar Pradesh town of Dibiyapur. I work as a web and UX developer. I am currently attending the Indian Institute of Information Technology, Bhopal, to complete my bachelor's degree in computer science. The chance to study the most recent and cutting-edge technology in the web development industry excites me greatly. I'm passionate about web development and programming, and I'm sure that my abilities and knowledge can make a significant difference. I have studied a variety of programming languages throughout my time in college, including HTML, CSS, Javascript, PHP, and SQL.I also have some experience with other software and coding languages, such as React and Node.js. Additionally, I'm interested in best practices, web design patterns, and continuous development. I'm eager to participate and pay attention, and I'm driven to complete the task. Finally, I'm eager to seize this chance and take on the difficulties of web building. I am certain that I am the best applicant for this position. It's all about me, then. I'm interested in hearing from you.",
+    "email": "alok03414@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/alok-kumar-234612210/",
+		"github": "https://github.com/Alokkumar7272"
 	},
 	"experience": [
 		{
-				"position": "Microsoft Student Partner",
-				"organization": "Microsoft",
+				"position": "Web Developer and Designing",
+				"organization": "The Sparks Foundation",
 				"aboutWork": "Student Partners are a global group of on-campus ambassadors who are eager to help fellow students, lead in their local tech community, and develop technical and career skills for the future.",
-				"fromDate": "January 2020",
+				"fromDate": "June 2023",
 				"toDate": "Present"
-		},
-		{
-			"position": "Algorithm and Data Structure Developer",
-			"organization": "OpenGenus",
-			"aboutWork": "Writing Technical Content and Articles for OpenGenus.",
-			"fromDate": "December 2019",
-			"toDate": "Present"
-		},
-		{
-			"position": "Intern",
-			"organization": "Global Child Prodigy Awards",
-			"aboutWork": "The ‘Global Child Prodigy Awards intends to create a unique mission and to imprint a strong impression of the prodigies’ rarity in the society.",
-			"fromDate": "October 2019",
-			"toDate": "January 2020"
 		}
 	],
 	"education": [{
-			"university": "Sathyabama Institute of Science and Technology",
-			"degree": "Bachelor of Engineering",
-			"gpa": "9.00",
-			"fromDate": "August 2018",
+			"university": "Indian Institute of Information Technology,Bhopal",
+			"degree": "Bachelor of Technology",
+			"gpa": "",
+			"fromDate": "Dec 2020",
 			"toDate": "Present"
 		}
 	],
@@ -75,37 +61,10 @@
 		"paragraphTwo": "⌨️ Typeracing"
 	},
 	"awards": [{
-			"awardDetail": "Second Position at Hack4Good Hackathon organized by School of Computing and Developer Students Club"
+			"awardDetail": "Received Supervised Machine Learning Certification from Coursera"
 		},
 		{
-			"awardDetail": "Google Cloud Platform Champ"
-		},
-		{
-			"awardDetail": "Received the Udacity Bertelsmann Data Science Scholarship"
-		},
-		{
-			"awardDetail": "Received Javascript Algorithms and Data Structures Certification from freecodecamp"
-		},
-		{
-			"awardDetail": "Received Machine Learning Certification from Coursera"
-		},
-		{
-			"awardDetail": "Received Problem Solving through Programming in C Certification from NPTEL"
-		},
-		{
-			"awardDetail": "Received The Joy of Computing in Python Certification from NPTEL"
-		},
-		{
-			"awardDetail": "Received Tensorflow in Practice Specialization from Coursera"
-		},
-		{
-			"awardDetail": "Received Java for Android from Coursera"
-		},
-		{
-			"awardDetail": "Received Machine Learning with Tensorflow on Google Cloud Platform Specialization from Coursera"
-		},
-		{
-			"awardDetail": "Received the Udacity Intel Edge AI Scholarship"
+			"awardDetail": "Received advanced Machine Learning Algorithms from Coursera"
 		}
 	]
 }
