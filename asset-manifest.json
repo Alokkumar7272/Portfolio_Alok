@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Alokkumar7272/static/css/main.e6c13ad2.css",
+    "main.js": "/Alokkumar7272/static/js/main.d196e6ff.js",
+    "static/media/profile.jpg": "/Alokkumar7272/static/media/profile.1429c1ca1ac7340e311e.jpg",
+    "index.html": "/Alokkumar7272/index.html",
+    "main.e6c13ad2.css.map": "/Alokkumar7272/static/css/main.e6c13ad2.css.map",
+    "main.d196e6ff.js.map": "/Alokkumar7272/static/js/main.d196e6ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d196e6ff.js"
+  ]
+}
